@@ -1,8 +1,11 @@
-In this repo you will find all the executable program of system programming lab.
-Topics will cover are mention below:
-1.Fork
-2.Wait
-3.Waitpid
-4.exec
-5.getpid
-6.pipe
+<h1><b>In this repo you will find all the executable program of system programming lab.</b></h1><br>
+<h2>Topics will cover are mention below:</h2>
+<ul>
+    <li>Fork</li>
+    <li>Wait</li>
+    <li>getpid</li>
+    <li>pipe</li>
+    <li>Waitpid</li>
+    <li>exec</li>
+</ul>
+
