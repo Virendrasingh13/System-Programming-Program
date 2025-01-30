@@ -3,8 +3,10 @@
 fork system call create new child process from parent process. fork() when called returns twice
  
 Fork == Success then return pid of child process
+
+Fork == Sucess 0 return by the child process
  
-Fork == Failed then return < 0
+Fork == Failed then return -1
  
 
     int main() {
