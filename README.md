@@ -13,7 +13,7 @@
 <h2><b>Fork() system call</b></h2>
 <p>Firk system call duplicate the process and create child process. If fork was sucessfull then it returns P_ID of child process and in child it returns '0'</p>
 
-see documentation [here](../Lactures/Fork1.md)
+see documentation [here](Lactures/Fork1.md)
 
 <h2><b>signals in system progrmming</b></h2>
 <p>As name says signals are used to send signals from one process to another.</p>
